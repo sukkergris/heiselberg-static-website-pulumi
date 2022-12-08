@@ -1,0 +1,9 @@
+{
+    "name": "Alpine"
+    , "dockerFile": "pulumi.Dockerfile"
+    , "customizations": {
+        "vscode": {
+            "extensions": []
+        }   
+    }
+}
